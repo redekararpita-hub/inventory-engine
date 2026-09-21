@@ -1,0 +1,9 @@
+[
+  {
+    "type": "base",
+    "sku": "A1",
+    "name": "Pen",
+    "price": 10,
+    "qty": 5
+  }
+]
